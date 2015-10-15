@@ -246,12 +246,11 @@ nav {
     border-bottom: 1px solid $lightGray;
     background: $white;
     margin-bottom: 1em;
-    border-radius: .3em;
+    border-radius: .1em;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
-    transition: all .5s;
 }
 .posts > .post:hover{
-    border-bottom: 2px solid #4DC5DE;
+    
 }
 
 .posts > .post:last-child {
